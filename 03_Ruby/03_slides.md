@@ -3,7 +3,7 @@
 
 * rrdruby - Ruby C bindings direkt vom RRDtool Projekt
 * ruby-ffi - Ruby FFI bindings
-* Diverse gems die das `rrdtool` Programm aufrufen
+* Diverse Gems die das `rrdtool` Programm aufrufen
 
 
 !SLIDE
@@ -81,7 +81,7 @@
 !SLIDE bullets incremental
 # librrd #
 
-* rrdruby C bindings als gem verpackt
+* rrdruby C bindings als Gem verpackt
 * Unterstützt RRDtool 1.2.x, 1.3.x und 1.4.x
 * MRI 1.8.6, 1.8.7, 1.9.2
 * Rubinius 1.1.0
