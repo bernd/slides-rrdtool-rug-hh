@@ -3,7 +3,7 @@
 
 * rrdruby - Ruby C bindings direkt vom RRDtool Projekt
 * ruby-ffi - Ruby FFI bindings
-* Diverse Gems die das `rrdtool` Programm aufrufen
+* Diverse Gems die das `rrdtool` Programm aufrufen (nützlich wg. GPL!)
 
 
 !SLIDE
