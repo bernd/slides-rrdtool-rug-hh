@@ -1,0 +1,9 @@
+{
+	"name": "RRDtool & Ruby - RUGHH",
+	"sections": [
+		{"section":"01_Intro"},
+		{"section":"02_RRDtool"},
+		{"section":"03_Ruby"},
+		{"section":"04_End"}
+	]
+}
