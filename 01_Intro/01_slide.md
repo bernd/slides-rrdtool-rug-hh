@@ -11,4 +11,5 @@
 !SLIDE bullets
 * Bernd Ahlers
 * @berndahlers
+* [github.com/bernd](http://github.com/bernd)
 * ![bytemine](logo.png)
